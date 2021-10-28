@@ -1,0 +1,10 @@
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\bin\Debug\Desafio clase 13.exe.config
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\bin\Debug\Desafio clase 13.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\bin\Debug\Desafio clase 13.pdb
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\obj\Debug\Desafio clase 13.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\obj\Debug\Desafio_clase_13.Form1.resources
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\obj\Debug\Desafio_clase_13.Properties.Resources.resources
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\obj\Debug\Desafio clase 13.csproj.GenerateResource.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\obj\Debug\Desafio clase 13.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\obj\Debug\Desafio clase 13.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 13\Desafio clase 13\obj\Debug\Desafio clase 13.pdb
